@@ -1,6 +1,6 @@
 
 # 
-# SHARK ATTACKS ANALYSIS
+# SHARK ATTACKS ANALYSIS 🦈
 
 ## Summary
 This is an interactive dashboard that gives insights into Sharks attacks recorded over the past 100 years, showing trends and patterns in sharks attacks over the years from 1900- 2017.
